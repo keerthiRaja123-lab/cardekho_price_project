@@ -1,0 +1,7 @@
+FULL PROJECT FOLDER DOWNLOAD
+
+The complete project folder is too large to upload directly to GitHub.
+
+You can download the full project (including model, dataset, code, and ZIP) from this Google Drive folder:
+
+https://drive.google.com/drive/folders/1jxbpoSInFc8WvxRgnMmk8uYYQlQVSntu?usp=sharing
